@@ -18,7 +18,9 @@ The laptop had a swollen battery that needed to be replaced due to the potential
 
 ![HP Pavilion 15 with swollen battery]
 <img width="640" height="480" alt="IMG_5963" src="https://github.com/user-attachments/assets/d148ca0c-82dc-49ba-b375-f3144b4259a6" />
+
 ![Trackpad]
+
 <img width="480" height="640" alt="IMG_5961" src="https://github.com/user-attachments/assets/065355b0-d7b6-4b45-9bbd-bd71be26fe71" />
 
 
@@ -46,10 +48,10 @@ The swollen battery was successfully replaced, and the laptop was returned to a 
 
 ![HP Pavilion 15 after repair]
 <img width="480" height="640" alt="IMG_6001" src="https://github.com/user-attachments/assets/6558b259-bd4d-47f9-83d2-569c62b065b4" />
+
 ![Working State]
+
 <img width="480" height="640" alt="IMG_5948" src="https://github.com/user-attachments/assets/da252bd9-ec0e-4b34-bf7b-2d82b00a9037" />
-
-
 
 
 ## Skills Demonstrated
