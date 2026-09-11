@@ -44,7 +44,11 @@ The swollen battery was successfully replaced, and the laptop was returned to a 
 
 ## Final Result
 
-![HP Pavilion 15 after repair]<img width="480" height="640" alt="IMG_6001" src="https://github.com/user-attachments/assets/6558b259-bd4d-47f9-83d2-569c62b065b4" />
+![HP Pavilion 15 after repair]
+<img width="480" height="640" alt="IMG_6001" src="https://github.com/user-attachments/assets/6558b259-bd4d-47f9-83d2-569c62b065b4" />
+![Working State]
+<img width="480" height="640" alt="IMG_5948" src="https://github.com/user-attachments/assets/da252bd9-ec0e-4b34-bf7b-2d82b00a9037" />
+
 
 
 
