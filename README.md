@@ -16,8 +16,10 @@ The laptop had a swollen battery that needed to be replaced due to the potential
 
 ## Before Repair
 
-![HP Pavilion 15 with swollen battery]<img width="480" height="640" alt="IMG_6001" src="https://github.com/user-attachments/assets/797e31a7-ee68-483a-8768-8344046cc224" />
+![HP Pavilion 15 with swollen battery]
 <img width="640" height="480" alt="IMG_5963" src="https://github.com/user-attachments/assets/d148ca0c-82dc-49ba-b375-f3144b4259a6" />
+<img width="480" height="640" alt="IMG_5961" src="https://github.com/user-attachments/assets/065355b0-d7b6-4b45-9bbd-bd71be26fe71" />
+
 
 
 ## Battery Replacement
